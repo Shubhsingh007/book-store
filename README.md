@@ -1,4 +1,4 @@
-Introduction To Bookstore
+INTRODUCTION TO BOOKSTORE
 
 The Internet has been favored by more and more 
 people for its high efficiency and richness, and 
@@ -48,6 +48,7 @@ presentation of a document written in a markup
 language such as HTML. CSS is a cornerstone 
 technology of the World Wide Web, alongside 
 HTML and JavaScript.
+
 
 TOOLS AND  ENVIRONMENT VISUAL STUDIO CODE
 
