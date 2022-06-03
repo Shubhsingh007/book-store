@@ -23,6 +23,7 @@ submit orders and pay Operation to complete the
 entire book ordering process, to achieve online 
 transactions
 
+
 TOOLS AND  ENVIRONMENT HTML
 
 HTML:-The HyperText Markup Language or HTML is the 
@@ -31,7 +32,6 @@ displayed in a web browser. It can be assisted by
 technologies such as Cascading Style 
 Sheets (CSS) and scripting languages such 
 as JavaScript.
-
 
 SQLite:-SQLite is an in-process library that 
 implements a self-contained, serverless, 
@@ -42,6 +42,7 @@ commercial or private. SQLite is the most widely
 deployed database in the world with more 
 applications than we can count, including 
 several high-profile projects. 
+
 CSS:-Cascading Style Sheets (CSS) is a style 
 sheet language used for describing the 
 presentation of a document written in a markup 
