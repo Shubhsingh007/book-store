@@ -62,4 +62,4 @@ intelligent code completion, snippets, code
 refactoring, and embedded Git. Users can 
 change the theme, keyboard shortcuts, 
 preferences, and install extensions that add 
-additional functionality.
+additional functionality. 
